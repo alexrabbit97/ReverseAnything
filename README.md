@@ -1,2 +1,2 @@
 # ReverseAnything
-A idea of using RevNet to make any model reserved
+A record of an idea of using RevNet to make any model reserved
